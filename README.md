@@ -18,7 +18,7 @@ Tree mode:
 ### Linux/MacOS
 
 ```sh
-git clone https://github.com/ahkohd/eza-preview.yazi ~/.config/yazi/plugins/eza-preview.yazi
+ya pack -a ahkohd/eza-preview
 ```
 
 ## Usage
